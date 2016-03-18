@@ -1,0 +1,43 @@
+{
+  "name": "jssip",
+  "version": "0.7.17",
+  "description": "the Javascript SIP library",
+  "main": "dist/jssip.js",
+  "homepage": "http://jssip.net",
+  "authors": [
+    "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
+    "Iñaki Baz Castillo <ibc@aliax.net> (https://github.com/ibc)",
+    "Saúl Ibarra Corretgé <saghul@gmail.com> (https://github.com/saghul)"
+  ],
+  "keywords": [
+    "sip",
+    "websocket",
+    "webrtc",
+    "node",
+    "browser",
+    "library"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/versatica/JsSIP.git"
+  },
+  "ignore": [
+    "node_modules",
+    "test",
+    "lib",
+    "gulpfile.js",
+    "package.json",
+    "banner.txt"
+  ],
+  "_release": "0.7.17",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.7.17",
+    "commit": "17302b12ac793cf494e9f7bd0b8fff55ddb8b493"
+  },
+  "_source": "git://github.com/versatica/JsSIP.git",
+  "_target": "~0.7.17",
+  "_originalSource": "jssip",
+  "_direct": true
+}
